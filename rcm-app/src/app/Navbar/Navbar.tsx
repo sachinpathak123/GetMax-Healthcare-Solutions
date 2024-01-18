@@ -30,6 +30,7 @@ const Navbar = () => {
   ];
 
   return (
+    <>
     <div className="flex justify-between items-center font-sans w-full h-20 px-4 text-light-pUrple bg-white fixed nav ">
       <div>
         {/* <h1 className="text-5xl font-signature ml-2"><a className="link-underline hover:transition ease-in-out delay-150 hover:underline hover:decoration-solid" href="">Logo</a></h1> */}
@@ -79,6 +80,7 @@ const Navbar = () => {
       )}
             <img src="/contact.png" alt="Target Image" className='w-36 h-10 relative right-6 top-1' />
     </div>
+            </>
   );
 };
 

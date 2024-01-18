@@ -6,8 +6,8 @@ const Home = () => {
     <>
     <div className='h-screen flex items-center justify-center text-custom-purple font-sans m-0 p-0 '>
         <div className='z-10 relative left-64'>
-        <div className='font-extrabold text-5xl text-center space-x-4 '>
-            <span>Better Products</span>
+        <div className='font-extrabold text-5xl text-center space-x-0 '>
+            <span>Building Better Products</span>
            <span> Shouldn't Take Forever</span>
       <div className="text-base font-thin text-center">
       We help companies innovate faster and build better products,<br />using real user data and rapid iterations.
